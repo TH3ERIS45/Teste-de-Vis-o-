@@ -1,0 +1,25 @@
+body{
+  background: linear-gradient(210deg,SkyBlue,LightBlue);
+  text-align: center;
+  height: 2100px;
+  margin: auto;
+display: block;
+}
+h1{
+  font-style: italic;
+}
+h2{
+  filter: blur(1px);
+}
+h3{
+  filter: blur(2px);
+}
+h4{
+  filter: blur(3px);
+}
+h5{
+  filter: blur(2.2px);
+}
+h6{
+  filter: blur(2.3px);
+}

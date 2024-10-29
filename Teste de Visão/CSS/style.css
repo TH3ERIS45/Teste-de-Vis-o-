@@ -1,0 +1,16 @@
+img{
+  width: 240px;
+  margin: auto;
+  display: block;
+}
+body{
+margin: auto;
+display: block;
+background: linear-gradient(101deg,darkgrey,black);
+width: 370px;
+height: 2100px;
+}
+button{
+  background: linear-gradient(12deg,darkgrey,white);
+  
+}

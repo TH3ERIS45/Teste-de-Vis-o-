@@ -1,0 +1,25 @@
+body{
+  background: linear-gradient(120deg,SandyBrown,Navajowhite);
+  height: 2100px;
+  text-align: center;
+margin: auto;
+display: block;
+}
+h1{
+  font-family: helvetica;
+}
+h2{
+  filter: blur(1px);
+}
+h3{
+  filter: blur(2px);
+}
+h4{
+filter: blur(2.1px);
+}
+h5{
+filter: blur(2.2px);
+}
+h6{
+filter: blur(1.7px);
+}
